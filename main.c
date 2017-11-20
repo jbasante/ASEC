@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdint.h>
-#include "sha.h"
+#include "sha1_0.h"
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
