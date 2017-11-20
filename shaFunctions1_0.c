@@ -1,5 +1,5 @@
 #include <stdint.h>
-#include "sha.h"
+#include "sha1_0.h"
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
